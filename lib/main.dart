@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:forro/modules/graduation/graduationDance.dart';
+import 'package:forro/modules/graduation/graduation_dance.dart';
 
 void main() {
   runApp(const MyApp());
